@@ -1,0 +1,32 @@
+body{
+  background-image:url(wood.jpg);
+  background-repeat:repeat-y;
+  background-size:cover;
+  margin:0;
+}
+
+#sm-bar-login{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:100%;
+  overflow: hidden;
+  background-color:#111;
+}
+.sm-bar {
+  float: left;
+}
+.sm-bar a{
+  text-decoration:none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding:14px 16px;
+}
+.sm-bar a:hover {
+  background-color: gray;
+}
+.title{
+ 
+}
+
